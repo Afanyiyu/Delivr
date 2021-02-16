@@ -1,8 +1,8 @@
-version: 0.1.2
+version: 0.1.3
 files:
-  - url: Kaiheila-0.1.2.dmg
-    sha512: jUUxU2gJDbQOWdqvpo0NaGmXLqRTYvaG62pmN+C+JeaNBi2dLhXarEpCEU/pp4Rl9YSy4Yp1gIi1SWQz4KwAbQ==
-    size: 78734193
-path: Kaiheila-0.1.2.dmg
-sha512: jUUxU2gJDbQOWdqvpo0NaGmXLqRTYvaG62pmN+C+JeaNBi2dLhXarEpCEU/pp4Rl9YSy4Yp1gIi1SWQz4KwAbQ==
-releaseDate: '2021-02-16T07:14:21.063Z'
+  - url: Kaiheila-0.1.3.dmg
+    sha512: Jij1onNmDbFsAEVaxkkA8509167nhMJjlKOh1P2nXZq4WwliFwIWMuEdCe0IhP7jVOSXqwRsRsdsdsyWvfDF/g==
+    size: 78734173
+path: Kaiheila-0.1.3.dmg
+sha512: Jij1onNmDbFsAEVaxkkA8509167nhMJjlKOh1P2nXZq4WwliFwIWMuEdCe0IhP7jVOSXqwRsRsdsdsyWvfDF/g==
+releaseDate: '2021-02-16T13:41:59.057Z'
