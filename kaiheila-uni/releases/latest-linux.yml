@@ -1,9 +1,9 @@
-version: 0.1.1
+version: 0.1.2
 files:
-  - url: Kaiheila-0.1.1.AppImage
-    sha512: iSlA+ov5lEQftoobaBzGoxGmszofUbrKJOMtMngSUcf8oTdpX/VA8MVgslTq0DpBiRGK4Tk74up7KxUL5L5vWg==
-    size: 77988729
-    blockMapSize: 82829
-path: Kaiheila-0.1.1.AppImage
-sha512: iSlA+ov5lEQftoobaBzGoxGmszofUbrKJOMtMngSUcf8oTdpX/VA8MVgslTq0DpBiRGK4Tk74up7KxUL5L5vWg==
-releaseDate: '2021-02-16T05:33:55.718Z'
+  - url: Kaiheila-0.1.2.AppImage
+    sha512: E6C2CIEotNlfa6DIM6jzjxdEcP89EsYCzybChl/IlBivACmG4EjerfjIZrX9CakhpAohjXiamne0C5x91wzSlg==
+    size: 77996973
+    blockMapSize: 82881
+path: Kaiheila-0.1.2.AppImage
+sha512: E6C2CIEotNlfa6DIM6jzjxdEcP89EsYCzybChl/IlBivACmG4EjerfjIZrX9CakhpAohjXiamne0C5x91wzSlg==
+releaseDate: '2021-02-16T07:13:49.572Z'

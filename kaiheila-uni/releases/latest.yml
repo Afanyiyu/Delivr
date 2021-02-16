@@ -1,8 +1,8 @@
-version: 0.1.1
+version: 0.1.2
 files:
-  - url: Kaiheila Setup 0.1.1.exe
-    sha512: Dg0LHcmBBKD5bSpxXmp+e4EIUtSTg7GAA577a0haEt9EQ57K5C1+PyZ27mg93kV4Fd+cYIdY9ItWsm9Q7sgpJg==
-    size: 56104545
-path: Kaiheila Setup 0.1.1.exe
-sha512: Dg0LHcmBBKD5bSpxXmp+e4EIUtSTg7GAA577a0haEt9EQ57K5C1+PyZ27mg93kV4Fd+cYIdY9ItWsm9Q7sgpJg==
-releaseDate: '2021-02-16T05:35:21.829Z'
+  - url: Kaiheila Setup 0.1.2.exe
+    sha512: /SrV1SU4npAY6RFMZnhgQ8u2j44kH+LRuETnBMsaCjVJ7KYYn/V0GODXJ/63qoe1idUQ2M7HzV7eMca873xWRw==
+    size: 56116766
+path: Kaiheila Setup 0.1.2.exe
+sha512: /SrV1SU4npAY6RFMZnhgQ8u2j44kH+LRuETnBMsaCjVJ7KYYn/V0GODXJ/63qoe1idUQ2M7HzV7eMca873xWRw==
+releaseDate: '2021-02-16T07:15:04.721Z'
